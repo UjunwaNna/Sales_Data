@@ -62,7 +62,7 @@ Designed a dynamic, interactive Excel Dashboard featuring PivotTables and PivotC
 ---
 
 ### Repository Structure
-
+https://docs.google.com/spreadsheets/d/1oAkeeufks5AX0kB8vxk12YJBxK_fy5Eh/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true 
 * `Consolidated/`
 * **Raw Data:** Original, unmodified employee sales dataset.
 * **Cleaned Data:** Pre-processed and standardized dataset ready for analysis.
