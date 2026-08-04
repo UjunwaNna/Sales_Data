@@ -27,13 +27,11 @@ Raw data often contains formatting inconsistencies, trailing spaces, and mixed d
 
 Once cleaned, the data was enhanced with calculated fields and logical rules to segment performance:
 
-* **Aggregation:** Calculated total sales per employee by summing quarterly figures ($Q1–Q4$).
+* **Aggregation:** Calculated total sales per employee by summing quarterly figures (Q1–Q4).
 * **Performance Categorization:** Implemented nested `IF` statements to group employees into distinct performance tiers:
-* **High Performer:** $\ge \$200\text{K}$
-* **Mid Performer:** $\$180\text{K} - \$199\text{K}$
-* **Low Performer:** $<\$180\text{K}$
-
-
+  * **High Performer:** &gt;= $200K
+  * **Mid Performer:** $180K - $199K
+  * **Low Performer:** &lt; $180K
 * **Ranking:** Integrated rating and ranking systems to easily identify top contributors.
 
 #### 3. Conditional Formatting & Visual Cues
@@ -62,9 +60,10 @@ Designed a dynamic, interactive Excel Dashboard featuring PivotTables and PivotC
 ---
 
 ### Repository Structure
-https://docs.google.com/spreadsheets/d/1oAkeeufks5AX0kB8vxk12YJBxK_fy5Eh/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true 
+
+* [Full Interactive Analysis Spreadsheet](https://docs.google.com/spreadsheets/d/1oAkeeufks5AX0kB8vxk12YJBxK_fy5Eh/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true)
 * `Consolidated/`
-* **Raw Data:** Original, unmodified employee sales dataset.
-* **Cleaned Data:** Pre-processed and standardized dataset ready for analysis.
-* **Pivot Tables:** Summarized tables for dynamic data exploration.
-* **Dashboard:** Fully interactive Excel workbook containing the visual dashboard and charts.
+  * **Raw Data:** Original, unmodified employee sales dataset.
+  * **Cleaned Data:** Pre-processed and standardized dataset ready for analysis.
+  * **Pivot Tables:** Summarized tables for dynamic data exploration.
+  * **Dashboard:** Fully interactive Excel workbook containing the visual dashboard and charts.
