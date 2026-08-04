@@ -38,7 +38,7 @@ Once cleaned, the data was enhanced with calculated fields and logical rules to 
 
 #### 3. Conditional Formatting & Visual Cues
 
-* Highlighted the **Top 10 Highest Producers** in green for instant recognition.
+* Highlighted the **Top 10 Highest Producers** in red for instant recognition (Employee Total Sales).
 * Applied three-color scales (green–yellow–red) to visualize performance ratings across tiers.
 * Used color-coded sales tables to enhance overall readability.
 
