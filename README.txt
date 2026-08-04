@@ -45,7 +45,7 @@ Designed a dynamic, interactive Excel Dashboard featuring PivotTables and PivotC
 - **Rankings & Distributions:** Top 10 employees by total sales, sales by department, and sales by region.
 - **Interactivity:** Implemented slicers and drop-down data validation lists enabling users to instantly select an employee's name to view their department, region, and total sales.
 
-## Summary of Tools & Techniques
+#Summary of Tools & Techniques#
 
 - **Data Cleaning Functions:** `SUBSTITUTE`, `VALUE`, `CLEAN`, `MID`, `LEFT`, `RIGHT`
 - **Logical & Analytical Functions:** `IF`, `SUM`, `RANK`
