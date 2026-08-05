@@ -51,7 +51,7 @@ Summary of Tools & Techniques
 - Logical & Analytical Functions: IF, SUM, RANK
 - Visualization Features: PivotTables, PivotCharts, Custom Color Scales, and KPI Cards
 
- Full Interactive Analysis Spreadsheet:  https://docs.google.com/spreadsheets/d/1oAkeeufks5AX0kB8vxk12YJBxK_fy5Eh/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true
+ Full Interactive Analysis Spreadsheet: https://docs.google.com/spreadsheets/d/12o9n0x8aSgGa-PadsLF3kPFBExlHpYek/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true 
 - Consolidated/
 
 Repository Structure
