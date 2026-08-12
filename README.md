@@ -3,8 +3,7 @@ This repository contains an end-to-end data analysis project showcasing proficie
 The project evaluates over 500 employee sales records across multiple regions and departments, transforming raw,
 unstructured data into an interactive, professional dashboard.
  
-**Full Interactive Analysis Spreadsheet:https://1drv.ms/x/c/dbc68fe0ab4d6b41/IQABXmYQCkhcRqgYJNo-QKkHAaIRQw5XuH_iZWwbSKa7_pk?e=IVaA5R**
-
+**Full Interactive Analysis Spreadsheet: https://docs.google.com/spreadsheets/d/1Xim8Fwwc5SGu8d8MggZ6lOEFuyDiwL5K/edit?usp=sharing&ouid=113262483247913212892&rtpof=true&sd=true
 
 ## Project Overview
 
